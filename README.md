@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Luau, Visual Effects**
 
-- 📫 You can reach me on Discord **@Jerse1#5645** and on <a href="https://twitter.com/realjerse1" target="_blank" rel="nonreferrer">**Twitter**<a/>
+- 📫 You can reach me on Discord **@Jerse1#5645** and on <a href="https://twitter.com/realjerse1" rel="nonreferrer">**Twitter**<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
